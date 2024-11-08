@@ -12,6 +12,6 @@ class Project:
         return (
             f"Name: {self.name}"
             f"\nDescription: {self.description or '-'}"
-            f"\nDependencies: {self._stringify_dependencies(self.dependencies)}"
+            f"\nDependencies: {self._stringify_dependencies(self.dependencies) or '-'}"
             f"\nDevelopment dependencies: {self._stringify_dependencies(self.dev_dependencies)}"
         )
