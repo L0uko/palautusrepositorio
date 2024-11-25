@@ -1,4 +1,4 @@
-Tiivistelmä retrospektiivistä..
+Tiivistelmä retrospektiivistä...
 
 Käytetään edellisestä sprintistä/projektista oppimiseen. Tarkistellaan Ympyrämallia.
 Piirrä ympyrä missä lukee " start, stop, contiue, more of, less of"
